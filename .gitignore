@@ -1,6 +1,0 @@
-# Ignore data
-survey_results_public_2020.csv
-survey_results_public_2021.csv
-
-# Jupyter notebook
-.ipynb_checkpoints
