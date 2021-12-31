@@ -32,7 +32,7 @@ There is one notebook file that have all the work related to the above questions
 ## 4. Results <a name="results"></a>  
 From that analysis I did in this project. I found out that most favorite type of offers are **Buy One Get One** (BOGO) offers and **Discount** offers. I digged deep to see who and what type of customers we have and noticed that **Females** tend to complete offers more than males with **56%** completion of the offers they received. Where **Males** completed only **43.18** from the offers they received. But our current data shows that we gave **males** more offers since they have more transactions than females with total number of **72794** transactions, where **females** only had **49382** transactions. In conclusion, the company should give more offers to **Females** than **Males** since they have more completed offers. And they should focus more on **BOGO** and **Discount** offers since they are the one that tend to make customers buy more.  
   
-The main findings of the code can be found [here](https://github.com/mujahid-mohammed/Udacity-DSND-Misk-SDAIA).
+The main findings of the code can be found [here](https://medium.com/@alsgmany9109/starbucks-best-offers-predictor-analysis-7caa1c49af6a).
 
 ## 5. Licensing, Authors, Acknowledgements<a name="licensing"></a>
 The data was given by Starbucks and Udacity.
